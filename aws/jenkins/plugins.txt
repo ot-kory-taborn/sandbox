@@ -1,0 +1,2 @@
+pipeline:latest
+git:latest
